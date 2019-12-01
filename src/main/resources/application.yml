@@ -1,0 +1,13 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+#      username:
+#      password:
+#      authentication-database:
+      database: spring
+
+
+server:
+  port: 9004
